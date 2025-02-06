@@ -1,4 +1,5 @@
 class Solution {
+    //add one to linked list
     public Node reverse(Node head){
         Node prev = null;
         Node currNode = head;
